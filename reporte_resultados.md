@@ -62,4 +62,4 @@ Para minimizar el error crítico (FN), se sugiere:
 ### Prueba de Ejecución
 La demostración del código se realiza mediante la siguiente imagen, que valida la ejecución exitosa del script `min_distance_classifier.py` y la obtención de los resultados reportados en la consola.
 
-![Consola mostrando los resultados finales del clasificador de Distancia Mínima](Captura desde 2023-11-25 22-35-17.png)
+![Resultados Finales del Clasificador](resultados_consola.png)
