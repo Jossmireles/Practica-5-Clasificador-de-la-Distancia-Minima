@@ -95,3 +95,9 @@ La demostración se realiza al ejecutar el script, que imprime los resultados de
 
 ```bash
 python min_distance_classifier.py
+
+### Demostración de la Ejecución Final
+
+La siguiente imagen comprueba la ejecución exitosa del script y los resultados obtenidos en la consola, mostrando la Accuracy y las Matrices de Confusión de ambos métodos de validación:
+
+![Consola mostrando los resultados finales del clasificador de Distancia Mínima](Captura desde 2023-11-25 22-35-17.png)
